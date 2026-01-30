@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "msg": "萌灵表情包分享地址(mengling.meng.me)",
+    "data": [
+        {
+            "name": "1",
+            "category": "一二布布",
+            "url": "https://cdn.jsdmirror.com/gh/mengDot/static-file-repository@main/emoji/yierbubu/1.jpg"
+        }
+    ]
+}
